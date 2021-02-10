@@ -19,7 +19,20 @@ The workflow steps (and matching example initiative) are as follows:
 - __Has estimate__ - [fanny pack example](https://github.com/bitovi/continous-exploration/issues/2) - Work breakdown and development cost estimation.
 - __Has evaluation__ - [fanny pack example](https://github.com/bitovi/continous-exploration/issues/6) - Value proven and/or estimated.
 
-Each one of the `fanny pack example` issues above  
+Each one of the `fanny pack example` issues above includes an example of the work in that stage and an answers the following questions about that stage:
+
+- What is the purpose of that stage?
+- How to move an initiative into that stage?
+- How to sort that stage?
+
+## Background
+
+This pattern is inspired by [Scaled Agile's Continous Exploration process](https://www.scaledagileframework.com/continuous-exploration/) and Bitovi's work over the past several years. It's a more stakeholder-driven workflow than the more agile `Observe > Hypothesize > Validate > Develop > Validate` methods that Bitovi prefers.
+
+
+## Operating 
+
+
 
 ## Roles 
 

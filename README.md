@@ -43,7 +43,20 @@ Most of this work can be done by two groups of individuals:
 - Stakeholders
 - Project Manager (PM) - aka Product Owner (PO) or Technical Product Owner (TPO)
 
-We recommend that this work is done continously. This means that these initiatives are being _filled out_ and _reprioritized_ each sprint. The results of that effort are also being shared with the larger team each sprint.
+We recommend that this work is done continously. This means that these initiatives are being _filled out_ and _reprioritized_ each sprint. The results of that effort are also being shared with the larger team each sprint. To develop an initiaitve, a TPO will typically have 7 meetings over a 3-4 week period.
+
+First, there is a `CE Meeting` every sprint where the TPO and Stakeholders reporitize the program backlog.  Once an item in the `unrefined` list is selected as top priority, the following happens:
+
+- Meeting 1 - (1 hr) Meet with stakeholders to get high-level requirements. Include UX and engineering represenative.
+- Work item - Develop the UX, write up the initiative's requirements.
+- Meeting 2 - (30 min) Review the UX with stakeholders.  Attempt to get initiative into `has requirements` stage.  
+- Work Item - Break down the initiative into expected epics.
+- Meeting 3 - (1.5 hrs) Meet with the engineering to review the requirements, start breaking the work down into epics. There will almost always be followup to requirements.
+- Meeting 4 - (30 min) Meet with stakeholders and review engineering considerations.  Update the initiative's requirements.
+- Meeting 6 - (1 hr) Meet with engineering to finalize epics. Attempt to move initiative into `has estimate` stage.  
+
+Once this work is complete, the TPO should work with stakeholders to prioritize the initiative in the `has evaluation` list.  Once prioritized, this loosely represents the development backlog.
+
 
 <details>
 <summary> Comparison to Scaled Agile's PI Planning events </summary>

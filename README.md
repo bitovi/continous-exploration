@@ -66,12 +66,12 @@ While many organizations like this approach, Bitovi finds it inneficient and les
 
 __Spacing__ - PI Planning happens all at once, this creates several difficulties:
 
-- It requires a huge amount of preperation to be prepared to organize work for a 3 month period. Individual initiative-focused meetings are easier to prepare.
+- It requires a huge amount of preperation is needed to organize work for a 3 month period. Individual initiative-focused meetings are easier to prepare.
 - It doesn't provide time for digestion and thoughtfulness. People think better when given time to digest, think, and research. Incremental meetings spaced out produce better results.
 
-__Output Missmatch__ - PI Planning doesn't often produce an output that matches what teams use for day-to-day planning.  PI planning is often done with physical cards, strings and tape. While this is fun, it has the following downsides:
-- There's extra work to translate the physical board into it's digital representation.
-- Plans will change and planning meetings will occur, but these will likely be done against the day-to-day digital representation. Now teams are planning in 2 different systems. Incremental meets are always done within the digital representation of work.
+__Output Mismatch__ - PI Planning doesn't often produce an output that matches what teams use for day-to-day planning. PI planning is often done with physical cards, strings and tape. While this is fun, it has the following downsides:
+- There is extra work to translate the physical board into its digital representation.
+- Plans will change and additional planning meetings will occur. But these will likely be done against the day-to-day digital representation. This results in teams planning in 2 different systems. Incremental meetings are always done within the digital representation of work.
 
 __Remote Challenges__ - PI Planning doesn't work well for remote teams. You can't easily "break out" online like you can in-person. Incremental meetings around a single initiative can be more easily targeted to include _just_ who needs to be included. These smaller meetings are less wasteful of people's time.
 

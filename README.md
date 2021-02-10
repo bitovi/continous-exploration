@@ -29,7 +29,8 @@ Each one of the `fanny pack example` issues above includes an example of the wor
 
 This pattern is inspired by [Scaled Agile's Continous Exploration process](https://www.scaledagileframework.com/continuous-exploration/) and Bitovi's work over the past several years. It's a more stakeholder-driven workflow than the more agile `Observe > Hypothesize > Validate > Develop > Validate` methods that Bitovi prefers.
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vQ0zOne0Um6B6HR1lExc-mG5AncvPtm4jOJihHStDPSQZZ1sW1WFYtDiQq7DE_n6FP1Vv6b0Q4GvHhK/pub?w=643&h=698/>
+![Continous Exploration With Stakeholders](https://docs.google.com/drawings/d/e/2PACX-1vQ0zOne0Um6B6HR1lExc-mG5AncvPtm4jOJihHStDPSQZZ1sW1WFYtDiQq7DE_n6FP1Vv6b0Q4GvHhK/pub?w=643&h=698)
+
 
 ## Operating 
 

@@ -61,16 +61,25 @@ Once this work is complete, the TPO should work with stakeholders to prioritize 
 <details>
 <summary> Comparison to Scaled Agile's PI Planning events </summary>
 
-This is in contrast to Scaled Agile's [PI Planning](https://www.scaledagileframework.com/pi-planning/) where everyone meets face to face for multiple days each quarter.
-While many organizations like this approach, Bitovi finds it extremely inneficient less effective than the continous approach for several reasons:
+This is in contrast to Scaled Agile's [PI Planning](https://www.scaledagileframework.com/pi-planning/) where everyone meets face to face for multiple days once a quarter.
+While many organizations like this approach, Bitovi finds it inneficient and less effective than a continous approach for several reasons:
 
-- It doesn't leave time for validation of ideas. Work is planned in one big-bang and then executed.
-- It doesn't provide time for digestion and thoughtfulness. People think better when given time to digest, think, and research.  
-- It doesn't operate in the day-to-day outputs that teams use.  A paper board needs to be turned into a digital representation. This means that when changes to the plan do occur, people need to adjust the day-to-day representations of work.  They are operating in 2 different systems instead of one.
-- It doesn't work well for remote teams. You can't easily "break out" online like you can in-person.
-- It requires a huge amount of preperation to be prepared for _all_ work for a 3 month time period.  
+__Spacing__ - PI Planning happens all at once, this creates several difficulties:
 
-That being said, PI planning is great for team building.  
+- It requires a huge amount of preperation to be prepared to organize work for a 3 month period. Individual initiative-focused meetings are easier to prepare.
+- It doesn't provide time for digestion and thoughtfulness. People think better when given time to digest, think, and research. Incremental meetings spaced out produce better results.
+
+__Output Missmatch__ - PI Planning doesn't often produce an output that matches what teams use for day-to-day planning.  PI planning is often done with physical cards, strings and tape. While this is fun, it has the following downsides:
+- There's extra work to translate the physical board into it's digital representation.
+- Plans will change and planning meetings will occur, but these will likely be done against the day-to-day digital representation. Now teams are planning in 2 different systems. Incremental meets are always done within the digital representation of work.
+
+__Remote Challenges__ - PI Planning doesn't work well for remote teams. You can't easily "break out" online like you can in-person. Incremental meetings around a single initiative can be more easily targeted to include _just_ who needs to be included. These smaller meetings are less wasteful of people's time.
+
+__Proving Value Early__ - PI planning doesn't lend itself to proving value early. The meeting's goal is to plan out the delivery of specific features. It doesn't create space for "proving" those features are valuable. 
+
+
+
+That being said, PI planning is __great__ for team building.  
 
 </details>
 

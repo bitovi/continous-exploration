@@ -67,7 +67,7 @@ While many organizations like this approach, Bitovi finds it inneficient and les
 __Spacing__ - PI Planning happens all at once, this creates several difficulties:
 
 - It requires a huge amount of preparation is needed to organize work for a 3 month period. Individual initiative-focused meetings are easier to prepare.
-- It doesn't provide time for digestion and thoughtfulness. People think better when given time to digest, think, and research. Incremental meetings spaced out produce better results.
+- It doesn't provide time for digestion and thoughtfulness. People think better when given time to digest, think, and research. Incremental meetings spaced out produce more accurate estimation and better plans.
 
 __Output Mismatch__ - PI Planning doesn't often produce an output that matches what teams use for day-to-day planning. PI planning is often done with physical cards, strings and tape. While this is fun, it has the following downsides:
 - There is extra work to translate the physical board into its digital representation.

@@ -74,7 +74,8 @@ That being said, PI planning is great for team building.
 
 </details>
 
-## Roles 
+## Artifacts
 
-- Stakeholders
-- Technical Product Owner (TPO)
+- Program initiatives board
+- High-level project roadmap
+- Detailed roadmap
